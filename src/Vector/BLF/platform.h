@@ -8,6 +8,7 @@
 
 #pragma once
 
+#include <stdint.h>
 #include <Vector/BLF/config.h>
 
 /* GCC */
